@@ -1,4 +1,4 @@
-package com.onestop.model;;
+package com.onestop.model;
 import java.sql.Timestamp;
 
 public class User {
